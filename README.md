@@ -1,5 +1,5 @@
 # Projectiamauriciogomez
-The future is the road
+The future is the road - Proyecto del curso de Desarrollo de IA
 <!-- This is the markdown template for the final project of the Building AI course, 
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
@@ -8,10 +8,10 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 Final project for the Building AI course
 
-## Summary
+## Resumen
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
-
+La IA es importante porque potencia nuestras capacidades, automatiza tareas, mejora decisiones y transforma la forma de trabajar, aprender e innovar. Su verdadero valor está en usarla con criterio, ética y propósito.
+Inicio para la creación de una IA
 
 ## Background
 
@@ -73,7 +73,7 @@ How could your project grow and become something even more? What kind of skills,
 
 
 ## Acknowledgments
-
+![image of an online cat](https://tinyurl.com/elementsofaicat)
 * list here the sources of inspiration 
 * do not use code, images, data etc. from others without permission
 * when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
