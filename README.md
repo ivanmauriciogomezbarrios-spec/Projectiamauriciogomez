@@ -4,7 +4,7 @@
 
 Proyecto desarrollado como parte del curso de Desarrollo de IA.
 
-## Resumen
+## Summary
 
 La IA permite automatizar análisis, detectar patrones y mejorar decisiones. Este proyecto propone utilizarla para identificar anomalías, errores y posibles fraudes en grandes volúmenes de transacciones.
 
