@@ -1,4 +1,4 @@
-# Proyecto ia mauriciogomez
+# Proyecto ia Mauricio Gómez
 The future is the road - Proyecto del curso de Desarrollo de IA
 <!-- This is the markdown template for the final project of the Building AI course, 
 created by Reaktor Innovations and University of Helsinki. 
@@ -27,8 +27,8 @@ This is how you make a list, if you need one:
 
 La solución consistirá en implementar un sistema apoyado en inteligencia artificial que analice de forma automática grandes volúmenes de transacciones, identifique patrones inusuales y detecte posibles fraudes, errores o comportamientos atípicos. El modelo generará alertas priorizadas según su nivel de riesgo, permitiendo que los responsables de auditoría o control concentren sus revisiones en los casos más críticos, mejoren los tiempos de respuesta y fortalezcan la prevención de pérdidas.
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
+Imágenes relacionadas
+Cargas a Github
 ![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
 ![Inteligencia Artificial](https://upload.wikimedia.org/wikipedia/commons/6/62/Ai-artificial-intelligence-logo.svg)
 If you need to resize images, you have to use an HTML tag, like this:
