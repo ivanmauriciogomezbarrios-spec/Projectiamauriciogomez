@@ -29,7 +29,7 @@ La solución consistirá en implementar un sistema apoyado en inteligencia artif
 
 Imágenes relacionadas
 Cargadas a Github
-![Inteligencia Artificial](https://commons.wikimedia.org/wiki/File:Artificial-Intelligence.svg)
+![Inteligencia Artificial](https://commons.wikimedia.org/wiki/Special:Redirect/file/Artificial-Intelligence.jpg)
 ![Inteligencia Artificial](https://upload.wikimedia.org/wikipedia/commons/6/62/Ai-artificial-intelligence-logo.svg)
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
