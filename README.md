@@ -1,12 +1,16 @@
+<!-- This is the markdown template for the final project of the Building AI course,
+created by Reaktor Innovations and University of Helsinki.
+Copy the template, paste it to your GitHub README and edit! -->
+
 # Proyecto IA - Mauricio Gómez
 
 **The Future is the Road**  
 
 Proyecto desarrollado como parte del curso de Desarrollo de IA.
 
-## Summary
+## Resumen
 
-La IA permite automatizar análisis, detectar patrones y mejorar decisiones. Este proyecto propone utilizarla para identificar anomalías, errores y posibles fraudes en grandes volúmenes de transacciones.
+La IA permite automatizar análisis, detectar patrones y mejorar la toma de decisiones. Este proyecto propone utilizar inteligencia artificial para identificar anomalías, errores y posibles fraudes en grandes volúmenes de transacciones.
 
 ## Descripción del proyecto
 
