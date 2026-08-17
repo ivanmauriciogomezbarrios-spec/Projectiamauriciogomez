@@ -6,7 +6,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 # Incios de un proyecto IA
 
-Final project for the Building AI course
+Proyecto para iniciar en IA
 
 ## Resumen
 
@@ -15,7 +15,7 @@ Inicio para la creación de una IA
 
 ## Detalles
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+Problemas a resolver y motivaciones
 
 This is how you make a list, if you need one:
 * Problemática: Muchas organizaciones generan grandes volúmenes de información, pero sus procesos de análisis siguen siendo manuales y lentos, lo que dificulta detectar riesgos, identificar oportunidades y tomar decisiones oportunas. La IA puede apoyar la automatización del análisis y mejorar la calidad de las decisiones.
@@ -28,8 +28,8 @@ This is how you make a list, if you need one:
 La solución consistirá en implementar un sistema apoyado en inteligencia artificial que analice de forma automática grandes volúmenes de transacciones, identifique patrones inusuales y detecte posibles fraudes, errores o comportamientos atípicos. El modelo generará alertas priorizadas según su nivel de riesgo, permitiendo que los responsables de auditoría o control concentren sus revisiones en los casos más críticos, mejoren los tiempos de respuesta y fortalezcan la prevención de pérdidas.
 
 Imágenes relacionadas
-Cargas a Github
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+Cargadas a Github
+![Inteligencia Artificial](https://upload.wikimedia.org/wikipedia/commons/6/62/Ai-artificial-intelligence-logo.svg)
 ![Inteligencia Artificial](https://upload.wikimedia.org/wikipedia/commons/6/62/Ai-artificial-intelligence-logo.svg)
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
