@@ -4,15 +4,19 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 # Proyecto IA - Mauricio Gómez
 
-**The Future is the Road**  
+Final project for the Building AI course
 
-Proyecto desarrollado como parte del curso de Desarrollo de IA.
-
-## Resumen
+## Summary
 
 La IA permite automatizar análisis, detectar patrones y mejorar la toma de decisiones. Este proyecto propone utilizar inteligencia artificial para identificar anomalías, errores y posibles fraudes en grandes volúmenes de transacciones.
 
-## Descripción del proyecto
+## Background
+
+Muchas organizaciones generan grandes volúmenes de información y transacciones, pero una parte importante de sus procesos de análisis continúa realizándose de forma manual.
+
+## How is it used?
+
+La solución analizará automáticamente las transacciones, identificará patrones inusuales y generará alertas priorizadas según su nivel de riesgo.
 
 Este proyecto explora el uso de la inteligencia artificial como herramienta para fortalecer los procesos de análisis, auditoría, gestión de riesgos y control.
 La propuesta busca aprovechar técnicas de IA para analizar grandes volúmenes de información, identificar comportamientos inusuales y apoyar una toma de decisiones más rápida y basada en datos.
