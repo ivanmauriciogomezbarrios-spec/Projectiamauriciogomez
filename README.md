@@ -15,7 +15,7 @@ Inicio para la creación de una IA
 
 Problemas a resolver y motivaciones
 
-This is how you make a list, if you need one:
+PROBLEMÁTICAS
 * Problemática: Muchas organizaciones generan grandes volúmenes de información, pero sus procesos de análisis siguen siendo manuales y lentos, lo que dificulta detectar riesgos, identificar oportunidades y tomar decisiones oportunas. La IA puede apoyar la automatización del análisis y mejorar la calidad de las decisiones.
 * Aplicación de IA: usar modelos que analicen grandes volúmenes de datos, detecten patrones inusuales y generen alertas para priorizar los casos de mayor riesgo.
 * etc.
