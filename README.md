@@ -9,10 +9,10 @@ Copy the template, paste it to your GitHub README and edit! -->
 Proyecto para iniciar en IA
 
 ## Resumen
-
 La IA es importante porque potencia nuestras capacidades, automatiza tareas, mejora decisiones y transforma la forma de trabajar, aprender e innovar. Su verdadero valor está en usarla con criterio, ética y propósito.
 Inicio para la creación de una IA
-
+..
+..
 ## Detalles
 
 Problemas a resolver y motivaciones
