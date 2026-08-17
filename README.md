@@ -1,6 +1,7 @@
 # Proyecto IA - Mauricio Gómez
 
 **The Future is the Road**  
+
 Proyecto desarrollado como parte del curso de Desarrollo de IA.
 
 ## Resumen
@@ -10,7 +11,6 @@ La IA permite automatizar análisis, detectar patrones y mejorar decisiones. Est
 ## Descripción del proyecto
 
 Este proyecto explora el uso de la inteligencia artificial como herramienta para fortalecer los procesos de análisis, auditoría, gestión de riesgos y control.
-
 La propuesta busca aprovechar técnicas de IA para analizar grandes volúmenes de información, identificar comportamientos inusuales y apoyar una toma de decisiones más rápida y basada en datos.
 
 ## Problemática
