@@ -1,10 +1,10 @@
-# Projectiamauriciogomez
+# Proyecto ia mauriciogomez
 The future is the road - Proyecto del curso de Desarrollo de IA
 <!-- This is the markdown template for the final project of the Building AI course, 
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# Incios de un proyecto IA
 
 Final project for the Building AI course
 
@@ -13,19 +13,19 @@ Final project for the Building AI course
 La IA es importante porque potencia nuestras capacidades, automatiza tareas, mejora decisiones y transforma la forma de trabajar, aprender e innovar. Su verdadero valor está en usarla con criterio, ética y propósito.
 Inicio para la creación de una IA
 
-## Background
+## Detalles
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
 This is how you make a list, if you need one:
-* problem 1
-* problem 2
+* Problemática: Muchas organizaciones generan grandes volúmenes de información, pero sus procesos de análisis siguen siendo manuales y lentos, lo que dificulta detectar riesgos, identificar oportunidades y tomar decisiones oportunas. La IA puede apoyar la automatización del análisis y mejorar la calidad de las decisiones.
+* Aplicación de IA: usar modelos que analicen grandes volúmenes de datos, detecten patrones inusuales y generen alertas para priorizar los casos de mayor riesgo.
 * etc.
 
 
-## How is it used?
+## Como será la solución
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+La solución consistirá en implementar un sistema apoyado en inteligencia artificial que analice de forma automática grandes volúmenes de transacciones, identifique patrones inusuales y detecte posibles fraudes, errores o comportamientos atípicos. El modelo generará alertas priorizadas según su nivel de riesgo, permitiendo que los responsables de auditoría o control concentren sus revisiones en los casos más críticos, mejoren los tiempos de respuesta y fortalezcan la prevención de pérdidas.
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
