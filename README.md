@@ -6,7 +6,7 @@ The future is the road - Proyecto del curso de Desarrollo de IA
 
 Proyecto para iniciar en IA
 
-##Resumen
+## Resumen
 La IA es importante porque potencia nuestras capacidades, automatiza tareas, mejora decisiones y transforma la forma de trabajar, aprender e innovar. Su verdadero valor está en usarla con criterio, ética y propósito.
 Inicio para la creación de una IA
 Corresponde al inicio de un proyecto usando GITHUB.
